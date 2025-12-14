@@ -43,7 +43,6 @@
 ---
 
 ## 🤝 Connect with Me https://www.linkedin.com/in/harshvardhanrao/
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/harshvardhanrao/)
 - 💬 Talk code, learning, or tech rabbit holes
 - 🌍 Open to collaborations & discussions
 - 📫 Reach me if you like building & learning together
